@@ -49,4 +49,4 @@ Roll No Name    Marks   Grade
 - GUI-based version.
 
 ---
-👨‍💻 Author: Your Name
+👨‍💻 Author: Saranya Banerjee
