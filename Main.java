@@ -27,5 +27,5 @@ public class Main {
         System.out.println("\n--- Student Report ---");
         manager.displayStudents();
         sc.close();
-    }
+    } 
 }
